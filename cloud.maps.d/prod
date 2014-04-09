@@ -1,0 +1,17 @@
+use1a-prod-web:
+- use1a-prod-web1
+- use1a-prod-web2
+- use1a-prod-web3
+
+use1b-prod-web:
+- use1b-prod-web1
+- use1b-prod-web2
+- use1b-prod-web3
+
+use1a-prod-rabbitmq:
+- use1a-prod-rabbitmq1
+- use1a-prod-rabbitmq2
+
+use1b-prod-rabbitmq:
+- use1b-prod-rabbitmq1
+- use1b-prod-rabbitmq2
